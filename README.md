@@ -27,6 +27,6 @@ This project is a LSB Image Steganography built using Python, enabling secure an
 ### Prerequisities
 1.	Ensure Python installed in the system
 2.	Install dependencies
-   ```Pip install opencv-python numpy```
+   ``` Pip install opencv-python numpy ```
 
 
